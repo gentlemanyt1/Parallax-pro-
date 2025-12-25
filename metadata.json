@@ -1,0 +1,5 @@
+{
+  "name": "Parallax Pro",
+  "description": "A powerful parallel web viewing tool that allows you to load and monitor the same URL across multiple, independently controlled views. Features include auto-refresh, dynamic view management, and a sleek, modern interface.",
+  "requestFramePermissions": []
+}
